@@ -37,7 +37,7 @@ print("Decrypted Text:", decrypted_text)
 ### Option 2: Clone the Repository and Run Locally
 Clone the repository using Git:
 ```sh
-git clone https://github.com/yourusername/hybrid-cipher.git
+git clone https://github.com/manishashetty29/Hybrid_cipher.git
 ```
 Navigate to the project directory:
 ```sh
@@ -45,7 +45,7 @@ cd hybrid-cipher
 ```
 Run the script in Python:
 ```sh
-python hybrid_cipher.py
+python hybrid_cipher.ipynb
 ```
 
 ##  Code Explanation
