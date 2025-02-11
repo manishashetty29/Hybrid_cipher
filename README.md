@@ -1,5 +1,5 @@
 # Hybrid_cipher
-#  Vigenère + Columnar Transposition
+##  Vigenère + Columnar Transposition3
 
 This repository contains a Python program that implements a **Hybrid Cipher**, combining **Vigenère Cipher** (Substitution) and **Columnar Transposition Cipher** (Permutation) to encrypt and decrypt text. The code can be executed locally or in a Jupyter Notebook environment.
 
